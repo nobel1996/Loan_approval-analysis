@@ -6,3 +6,4 @@ After completing this project, you will have better grip on working with pandas.
 - Dataframe slicing
 - Dataframe aggregation
 - Pivot table operations
+- Pandas Applications
